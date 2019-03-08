@@ -1,10 +1,20 @@
 # Datasets
 
-This repo contains data sets that are required in order to perform the applications and exercises we will cover in this course. 
+This repo contains data sets that are required in order to perform the applications and exercises we will cover in our course. 
 
 ## Data import with Python
 
+ 1) Navigate to the dataset 
+ 2) Select the `Raw` button 
+ 3) Copy the URL from the browser
+ 4) Paste the URL in your code (see below) 
+ 
+In this code example we use the URL from the `height`dataset (`https://raw.githubusercontent.com/kirenz/datasets/master/height.csv`) and import it from GitHub with the package `readr`: 
 
+```{python}
+import pandas as pd
+df = pd.read_csv("https://raw.githubusercontent.com/kirenz/datasets/master/height.csv")
+```
 
 ## Data import with R
 
@@ -13,15 +23,12 @@ This repo contains data sets that are required in order to perform the applicati
  3) Copy the URL from the browser
  4) Paste the URL in your code (see below) 
  
-Example: URL for the dataset `height` is `https://raw.githubusercontent.com/kirenz/datasets/master/height.csv`
+In this code example we use the URL from the `height`dataset (`https://raw.githubusercontent.com/kirenz/datasets/master/height.csv`) and import it from GitHub with the package `readr`: 
 
 ```{r}
-library(RCurl)
-df <-  getURL("https://raw.githubusercontent.com/kirenz/datasets/master/height.csv")
-dataset_oecd <- read.csv(text = dataset_oecd_raw)
-
+library(readr)
+data <- read_csv("https://raw.githubusercontent.com/kirenz/datasets/master/height.csv")
 ```
-
 
 ## List of further data resources
 
