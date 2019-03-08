@@ -9,7 +9,7 @@ This repo contains data sets that are required in order to perform the applicati
  3) Copy the URL from the browser
  4) Paste the URL in your code (see below) 
  
-In this code example we use the URL from the `height`dataset (`https://raw.githubusercontent.com/kirenz/datasets/master/height.csv`) and import it from GitHub with the package `readr`: 
+In this code example we use the URL from the `height`dataset (`https://raw.githubusercontent.com/kirenz/datasets/master/height.csv`) and import the data from GitHub with `pandas`: 
 
 ```{python}
 import pandas as pd
@@ -23,7 +23,7 @@ df = pd.read_csv("https://raw.githubusercontent.com/kirenz/datasets/master/heigh
  3) Copy the URL from the browser
  4) Paste the URL in your code (see below) 
  
-In this code example we use the URL from the `height`dataset (`https://raw.githubusercontent.com/kirenz/datasets/master/height.csv`) and import it from GitHub with the package `readr`: 
+In this code example we use the URL from the `height`dataset (`https://raw.githubusercontent.com/kirenz/datasets/master/height.csv`) and import the data from GitHub with the package `readr`: 
 
 ```{r}
 library(readr)
