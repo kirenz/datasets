@@ -1,4 +1,4 @@
-name,id,height,height_parents,gender
+name,id,height,average_height_parents,gender
 Stefanie,1,162,161,female
 Peter,2,163,163,male
 Stefanie,3,163,163,female
