@@ -1,9 +1,9 @@
-,name,id,height,height_parents,gender
+name,id,height,height_parents,gender
 0,Stefanie,1,162,161,female
-1,Petra,2,163,163,male
+1,Peter,2,163,163,male
 2,Stefanie,3,163,163,female
 3,Manuela,4,164,165,female
-4,Nadine,5,164,163,male
+4,Simon,5,164,163,male
 5,Sophia,6,164,164,female
 6,Ellen,7,164,164,female
 7,Emilia,8,165,165,female
@@ -11,11 +11,11 @@
 9,Marie,10,165,165,female
 10,Lena,11,165,166,female
 11,Mila,12,165,167,female
-12,Ida,13,165,165,male
-13,Ella,14,166,166,male
+12,Fin,13,165,165,male
+13,Eric,14,166,166,male
 14,Pia,15,166,166,female
-15,Sarah ,16 ,166,166,male
-16,Lia,17,166,166,male
-17,Lotta,18,167,166,male
-18,Emma,19,167,167,male
-19,Lina,20,168,168,male
+15,Marc,16 ,166,166,male
+16,Ralph,17,166,166,male
+17,Tom,18,167,166,male
+18,Steven,19,167,167,male
+19,Emanuel,20,168,168,male
