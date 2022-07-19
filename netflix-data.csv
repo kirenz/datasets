@@ -1,0 +1,2001 @@
+,group,outcome,member
+0,A,Engagement,1
+1,B,No engagement,1
+2,B,No engagement,1
+3,B,No engagement,1
+4,B,No engagement,1
+5,A,Engagement,1
+6,B,Engagement,1
+7,B,No engagement,1
+8,A,Engagement,1
+9,B,No engagement,1
+10,B,No engagement,1
+11,B,No engagement,1
+12,A,Engagement,1
+13,A,Engagement,1
+14,B,Engagement,1
+15,B,No engagement,1
+16,B,No engagement,1
+17,A,No engagement,1
+18,B,Engagement,1
+19,B,Engagement,1
+20,B,No engagement,1
+21,A,Engagement,1
+22,A,Engagement,1
+23,B,No engagement,1
+24,B,No engagement,1
+25,B,Engagement,1
+26,B,Engagement,1
+27,B,No engagement,1
+28,B,Engagement,1
+29,A,Engagement,1
+30,A,Engagement,1
+31,A,Engagement,1
+32,B,No engagement,1
+33,B,No engagement,1
+34,A,Engagement,1
+35,B,No engagement,1
+36,A,Engagement,1
+37,B,No engagement,1
+38,B,No engagement,1
+39,B,No engagement,1
+40,A,Engagement,1
+41,A,Engagement,1
+42,A,No engagement,1
+43,A,Engagement,1
+44,A,Engagement,1
+45,A,Engagement,1
+46,B,Engagement,1
+47,A,Engagement,1
+48,B,No engagement,1
+49,A,Engagement,1
+50,B,Engagement,1
+51,A,Engagement,1
+52,A,Engagement,1
+53,B,Engagement,1
+54,B,No engagement,1
+55,A,Engagement,1
+56,A,No engagement,1
+57,A,Engagement,1
+58,B,Engagement,1
+59,B,No engagement,1
+60,B,No engagement,1
+61,A,Engagement,1
+62,A,No engagement,1
+63,B,Engagement,1
+64,B,No engagement,1
+65,B,Engagement,1
+66,B,No engagement,1
+67,A,No engagement,1
+68,B,Engagement,1
+69,A,Engagement,1
+70,B,No engagement,1
+71,A,No engagement,1
+72,B,No engagement,1
+73,B,Engagement,1
+74,A,Engagement,1
+75,A,No engagement,1
+76,B,Engagement,1
+77,A,No engagement,1
+78,B,No engagement,1
+79,A,Engagement,1
+80,A,Engagement,1
+81,B,No engagement,1
+82,B,No engagement,1
+83,B,No engagement,1
+84,A,Engagement,1
+85,B,No engagement,1
+86,A,No engagement,1
+87,B,Engagement,1
+88,B,Engagement,1
+89,A,Engagement,1
+90,B,No engagement,1
+91,B,Engagement,1
+92,A,Engagement,1
+93,A,Engagement,1
+94,A,Engagement,1
+95,B,No engagement,1
+96,B,Engagement,1
+97,A,Engagement,1
+98,A,Engagement,1
+99,A,Engagement,1
+100,B,Engagement,1
+101,B,Engagement,1
+102,B,Engagement,1
+103,B,No engagement,1
+104,B,Engagement,1
+105,B,Engagement,1
+106,B,Engagement,1
+107,B,Engagement,1
+108,B,No engagement,1
+109,A,Engagement,1
+110,B,Engagement,1
+111,A,Engagement,1
+112,A,Engagement,1
+113,A,No engagement,1
+114,A,Engagement,1
+115,B,Engagement,1
+116,B,Engagement,1
+117,A,No engagement,1
+118,A,Engagement,1
+119,B,Engagement,1
+120,B,Engagement,1
+121,A,No engagement,1
+122,B,No engagement,1
+123,A,Engagement,1
+124,B,No engagement,1
+125,B,Engagement,1
+126,B,Engagement,1
+127,B,No engagement,1
+128,B,No engagement,1
+129,B,No engagement,1
+130,B,No engagement,1
+131,A,Engagement,1
+132,B,No engagement,1
+133,B,No engagement,1
+134,A,No engagement,1
+135,A,No engagement,1
+136,B,No engagement,1
+137,A,Engagement,1
+138,A,Engagement,1
+139,B,Engagement,1
+140,B,No engagement,1
+141,B,Engagement,1
+142,B,No engagement,1
+143,A,Engagement,1
+144,A,Engagement,1
+145,A,No engagement,1
+146,A,Engagement,1
+147,B,Engagement,1
+148,A,Engagement,1
+149,A,Engagement,1
+150,B,Engagement,1
+151,A,Engagement,1
+152,A,No engagement,1
+153,B,Engagement,1
+154,B,Engagement,1
+155,A,No engagement,1
+156,A,Engagement,1
+157,A,Engagement,1
+158,A,No engagement,1
+159,A,Engagement,1
+160,B,No engagement,1
+161,B,No engagement,1
+162,A,Engagement,1
+163,A,Engagement,1
+164,A,Engagement,1
+165,A,No engagement,1
+166,B,No engagement,1
+167,A,No engagement,1
+168,B,Engagement,1
+169,B,No engagement,1
+170,A,Engagement,1
+171,B,No engagement,1
+172,B,Engagement,1
+173,A,No engagement,1
+174,B,No engagement,1
+175,A,No engagement,1
+176,B,No engagement,1
+177,A,Engagement,1
+178,B,Engagement,1
+179,B,Engagement,1
+180,B,No engagement,1
+181,A,Engagement,1
+182,A,Engagement,1
+183,A,Engagement,1
+184,A,No engagement,1
+185,A,Engagement,1
+186,A,No engagement,1
+187,A,Engagement,1
+188,A,Engagement,1
+189,A,Engagement,1
+190,B,No engagement,1
+191,A,Engagement,1
+192,A,No engagement,1
+193,A,No engagement,1
+194,A,No engagement,1
+195,B,No engagement,1
+196,A,Engagement,1
+197,A,Engagement,1
+198,B,Engagement,1
+199,B,Engagement,1
+200,B,Engagement,1
+201,B,Engagement,1
+202,B,Engagement,1
+203,B,Engagement,1
+204,B,Engagement,1
+205,B,No engagement,1
+206,A,No engagement,1
+207,A,No engagement,1
+208,B,No engagement,1
+209,A,No engagement,1
+210,B,No engagement,1
+211,A,Engagement,1
+212,A,Engagement,1
+213,A,No engagement,1
+214,B,No engagement,1
+215,B,No engagement,1
+216,A,No engagement,1
+217,B,No engagement,1
+218,A,Engagement,1
+219,B,No engagement,1
+220,B,No engagement,1
+221,A,No engagement,1
+222,A,Engagement,1
+223,B,Engagement,1
+224,A,Engagement,1
+225,A,No engagement,1
+226,A,Engagement,1
+227,B,No engagement,1
+228,B,Engagement,1
+229,A,No engagement,1
+230,B,Engagement,1
+231,A,No engagement,1
+232,A,No engagement,1
+233,B,Engagement,1
+234,B,Engagement,1
+235,A,No engagement,1
+236,A,Engagement,1
+237,A,Engagement,1
+238,A,Engagement,1
+239,B,Engagement,1
+240,B,Engagement,1
+241,B,No engagement,1
+242,A,No engagement,1
+243,B,No engagement,1
+244,B,No engagement,1
+245,A,Engagement,1
+246,A,Engagement,1
+247,B,Engagement,1
+248,B,Engagement,1
+249,B,Engagement,1
+250,A,Engagement,1
+251,B,No engagement,1
+252,B,Engagement,1
+253,A,No engagement,1
+254,B,No engagement,1
+255,A,Engagement,1
+256,A,No engagement,1
+257,A,Engagement,1
+258,A,No engagement,1
+259,A,Engagement,1
+260,A,Engagement,1
+261,B,No engagement,1
+262,B,Engagement,1
+263,B,Engagement,1
+264,A,Engagement,1
+265,B,Engagement,1
+266,B,No engagement,1
+267,A,No engagement,1
+268,A,No engagement,1
+269,B,No engagement,1
+270,A,Engagement,1
+271,A,Engagement,1
+272,B,No engagement,1
+273,A,No engagement,1
+274,A,Engagement,1
+275,B,No engagement,1
+276,A,Engagement,1
+277,A,Engagement,1
+278,A,Engagement,1
+279,B,No engagement,1
+280,B,Engagement,1
+281,B,No engagement,1
+282,A,Engagement,1
+283,A,No engagement,1
+284,A,Engagement,1
+285,A,Engagement,1
+286,B,Engagement,1
+287,A,No engagement,1
+288,A,No engagement,1
+289,B,No engagement,1
+290,A,No engagement,1
+291,B,No engagement,1
+292,B,Engagement,1
+293,A,Engagement,1
+294,A,Engagement,1
+295,A,Engagement,1
+296,A,No engagement,1
+297,B,No engagement,1
+298,B,Engagement,1
+299,B,No engagement,1
+300,B,No engagement,1
+301,A,No engagement,1
+302,A,No engagement,1
+303,A,No engagement,1
+304,B,No engagement,1
+305,A,Engagement,1
+306,A,Engagement,1
+307,A,Engagement,1
+308,B,No engagement,1
+309,B,No engagement,1
+310,A,No engagement,1
+311,A,Engagement,1
+312,A,No engagement,1
+313,B,No engagement,1
+314,A,Engagement,1
+315,A,No engagement,1
+316,A,Engagement,1
+317,B,No engagement,1
+318,A,Engagement,1
+319,A,Engagement,1
+320,B,Engagement,1
+321,B,Engagement,1
+322,A,No engagement,1
+323,B,Engagement,1
+324,B,No engagement,1
+325,B,No engagement,1
+326,A,No engagement,1
+327,B,No engagement,1
+328,A,No engagement,1
+329,A,Engagement,1
+330,A,No engagement,1
+331,B,No engagement,1
+332,B,No engagement,1
+333,B,Engagement,1
+334,A,No engagement,1
+335,A,Engagement,1
+336,B,Engagement,1
+337,B,Engagement,1
+338,B,No engagement,1
+339,A,Engagement,1
+340,B,No engagement,1
+341,B,No engagement,1
+342,A,Engagement,1
+343,A,Engagement,1
+344,A,Engagement,1
+345,A,Engagement,1
+346,B,No engagement,1
+347,A,No engagement,1
+348,A,Engagement,1
+349,A,No engagement,1
+350,B,Engagement,1
+351,B,No engagement,1
+352,A,Engagement,1
+353,B,Engagement,1
+354,B,Engagement,1
+355,A,Engagement,1
+356,A,Engagement,1
+357,A,Engagement,1
+358,B,No engagement,1
+359,A,Engagement,1
+360,A,Engagement,1
+361,B,Engagement,1
+362,A,Engagement,1
+363,B,No engagement,1
+364,B,No engagement,1
+365,B,Engagement,1
+366,B,No engagement,1
+367,B,No engagement,1
+368,A,Engagement,1
+369,B,No engagement,1
+370,B,No engagement,1
+371,A,Engagement,1
+372,B,No engagement,1
+373,A,No engagement,1
+374,A,Engagement,1
+375,B,Engagement,1
+376,A,Engagement,1
+377,B,No engagement,1
+378,B,No engagement,1
+379,A,No engagement,1
+380,A,Engagement,1
+381,B,Engagement,1
+382,B,No engagement,1
+383,B,Engagement,1
+384,A,Engagement,1
+385,A,Engagement,1
+386,B,No engagement,1
+387,B,No engagement,1
+388,B,No engagement,1
+389,B,No engagement,1
+390,A,Engagement,1
+391,A,No engagement,1
+392,A,Engagement,1
+393,A,No engagement,1
+394,B,Engagement,1
+395,A,No engagement,1
+396,A,Engagement,1
+397,B,No engagement,1
+398,A,Engagement,1
+399,B,No engagement,1
+400,A,Engagement,1
+401,B,Engagement,1
+402,A,Engagement,1
+403,B,No engagement,1
+404,B,No engagement,1
+405,B,No engagement,1
+406,A,Engagement,1
+407,A,No engagement,1
+408,B,Engagement,1
+409,B,Engagement,1
+410,A,Engagement,1
+411,B,Engagement,1
+412,B,Engagement,1
+413,B,Engagement,1
+414,A,Engagement,1
+415,B,No engagement,1
+416,B,Engagement,1
+417,A,Engagement,1
+418,A,Engagement,1
+419,B,Engagement,1
+420,B,No engagement,1
+421,B,Engagement,1
+422,B,No engagement,1
+423,A,Engagement,1
+424,A,Engagement,1
+425,B,No engagement,1
+426,B,No engagement,1
+427,A,No engagement,1
+428,B,Engagement,1
+429,B,Engagement,1
+430,A,No engagement,1
+431,B,No engagement,1
+432,B,No engagement,1
+433,A,Engagement,1
+434,A,Engagement,1
+435,B,No engagement,1
+436,A,Engagement,1
+437,A,No engagement,1
+438,A,Engagement,1
+439,A,Engagement,1
+440,B,No engagement,1
+441,A,Engagement,1
+442,A,No engagement,1
+443,B,Engagement,1
+444,A,No engagement,1
+445,B,Engagement,1
+446,A,Engagement,1
+447,B,No engagement,1
+448,B,Engagement,1
+449,A,Engagement,1
+450,B,No engagement,1
+451,B,No engagement,1
+452,B,Engagement,1
+453,A,Engagement,1
+454,A,No engagement,1
+455,A,Engagement,1
+456,B,No engagement,1
+457,A,Engagement,1
+458,B,Engagement,1
+459,A,Engagement,1
+460,B,No engagement,1
+461,B,Engagement,1
+462,B,Engagement,1
+463,B,No engagement,1
+464,B,No engagement,1
+465,B,No engagement,1
+466,B,No engagement,1
+467,B,Engagement,1
+468,A,Engagement,1
+469,A,Engagement,1
+470,A,Engagement,1
+471,B,Engagement,1
+472,B,No engagement,1
+473,B,Engagement,1
+474,B,No engagement,1
+475,B,No engagement,1
+476,B,No engagement,1
+477,B,Engagement,1
+478,B,No engagement,1
+479,B,Engagement,1
+480,A,No engagement,1
+481,B,No engagement,1
+482,B,Engagement,1
+483,B,Engagement,1
+484,B,No engagement,1
+485,A,Engagement,1
+486,B,Engagement,1
+487,B,No engagement,1
+488,A,Engagement,1
+489,B,Engagement,1
+490,B,Engagement,1
+491,A,Engagement,1
+492,A,Engagement,1
+493,B,No engagement,1
+494,A,Engagement,1
+495,A,Engagement,1
+496,A,No engagement,1
+497,A,No engagement,1
+498,A,Engagement,1
+499,A,No engagement,1
+500,A,Engagement,1
+501,B,Engagement,1
+502,B,Engagement,1
+503,A,Engagement,1
+504,B,No engagement,1
+505,B,Engagement,1
+506,B,No engagement,1
+507,A,Engagement,1
+508,B,Engagement,1
+509,B,No engagement,1
+510,B,No engagement,1
+511,B,No engagement,1
+512,B,No engagement,1
+513,B,No engagement,1
+514,B,No engagement,1
+515,A,Engagement,1
+516,B,No engagement,1
+517,A,Engagement,1
+518,A,Engagement,1
+519,A,No engagement,1
+520,B,Engagement,1
+521,B,Engagement,1
+522,B,No engagement,1
+523,B,No engagement,1
+524,B,Engagement,1
+525,A,No engagement,1
+526,B,Engagement,1
+527,A,Engagement,1
+528,B,Engagement,1
+529,A,No engagement,1
+530,B,No engagement,1
+531,A,No engagement,1
+532,B,Engagement,1
+533,A,Engagement,1
+534,B,No engagement,1
+535,A,No engagement,1
+536,B,Engagement,1
+537,B,No engagement,1
+538,A,Engagement,1
+539,A,Engagement,1
+540,B,No engagement,1
+541,B,No engagement,1
+542,A,Engagement,1
+543,B,No engagement,1
+544,B,Engagement,1
+545,B,Engagement,1
+546,A,Engagement,1
+547,B,Engagement,1
+548,A,No engagement,1
+549,B,No engagement,1
+550,A,No engagement,1
+551,A,Engagement,1
+552,B,No engagement,1
+553,B,Engagement,1
+554,A,Engagement,1
+555,A,Engagement,1
+556,B,Engagement,1
+557,B,Engagement,1
+558,B,Engagement,1
+559,A,Engagement,1
+560,B,Engagement,1
+561,A,Engagement,1
+562,B,Engagement,1
+563,A,No engagement,1
+564,B,Engagement,1
+565,A,Engagement,1
+566,A,Engagement,1
+567,A,No engagement,1
+568,B,Engagement,1
+569,A,Engagement,1
+570,A,No engagement,1
+571,A,Engagement,1
+572,A,No engagement,1
+573,A,Engagement,1
+574,A,No engagement,1
+575,A,No engagement,1
+576,A,Engagement,1
+577,A,Engagement,1
+578,B,Engagement,1
+579,B,Engagement,1
+580,B,No engagement,1
+581,A,Engagement,1
+582,B,No engagement,1
+583,B,Engagement,1
+584,B,Engagement,1
+585,A,Engagement,1
+586,A,Engagement,1
+587,A,No engagement,1
+588,A,No engagement,1
+589,A,Engagement,1
+590,A,Engagement,1
+591,B,No engagement,1
+592,A,No engagement,1
+593,A,Engagement,1
+594,A,Engagement,1
+595,B,Engagement,1
+596,B,No engagement,1
+597,B,Engagement,1
+598,A,No engagement,1
+599,B,Engagement,1
+600,B,No engagement,1
+601,B,Engagement,1
+602,A,No engagement,1
+603,A,No engagement,1
+604,A,Engagement,1
+605,B,No engagement,1
+606,A,No engagement,1
+607,A,No engagement,1
+608,B,Engagement,1
+609,B,No engagement,1
+610,B,No engagement,1
+611,B,No engagement,1
+612,A,No engagement,1
+613,A,Engagement,1
+614,B,Engagement,1
+615,B,Engagement,1
+616,A,Engagement,1
+617,B,No engagement,1
+618,A,No engagement,1
+619,B,No engagement,1
+620,B,Engagement,1
+621,B,Engagement,1
+622,B,Engagement,1
+623,B,No engagement,1
+624,B,Engagement,1
+625,B,Engagement,1
+626,A,Engagement,1
+627,A,No engagement,1
+628,A,Engagement,1
+629,B,No engagement,1
+630,B,No engagement,1
+631,B,No engagement,1
+632,A,No engagement,1
+633,A,Engagement,1
+634,A,Engagement,1
+635,A,Engagement,1
+636,A,Engagement,1
+637,B,Engagement,1
+638,B,No engagement,1
+639,A,Engagement,1
+640,B,Engagement,1
+641,B,Engagement,1
+642,A,No engagement,1
+643,A,Engagement,1
+644,A,Engagement,1
+645,B,No engagement,1
+646,A,Engagement,1
+647,B,No engagement,1
+648,B,No engagement,1
+649,A,Engagement,1
+650,A,No engagement,1
+651,B,No engagement,1
+652,B,No engagement,1
+653,B,No engagement,1
+654,B,No engagement,1
+655,B,Engagement,1
+656,B,No engagement,1
+657,A,Engagement,1
+658,B,No engagement,1
+659,B,Engagement,1
+660,A,No engagement,1
+661,A,Engagement,1
+662,A,Engagement,1
+663,A,Engagement,1
+664,A,No engagement,1
+665,B,No engagement,1
+666,A,Engagement,1
+667,A,No engagement,1
+668,A,No engagement,1
+669,A,Engagement,1
+670,B,No engagement,1
+671,B,Engagement,1
+672,A,Engagement,1
+673,B,No engagement,1
+674,A,Engagement,1
+675,A,Engagement,1
+676,B,No engagement,1
+677,A,No engagement,1
+678,B,No engagement,1
+679,B,Engagement,1
+680,B,No engagement,1
+681,B,No engagement,1
+682,A,Engagement,1
+683,A,No engagement,1
+684,B,No engagement,1
+685,B,Engagement,1
+686,A,Engagement,1
+687,A,No engagement,1
+688,A,No engagement,1
+689,A,Engagement,1
+690,B,Engagement,1
+691,B,No engagement,1
+692,A,Engagement,1
+693,B,No engagement,1
+694,A,No engagement,1
+695,B,No engagement,1
+696,A,Engagement,1
+697,B,No engagement,1
+698,A,No engagement,1
+699,B,Engagement,1
+700,B,No engagement,1
+701,A,No engagement,1
+702,B,No engagement,1
+703,A,No engagement,1
+704,A,No engagement,1
+705,A,Engagement,1
+706,A,No engagement,1
+707,B,No engagement,1
+708,B,Engagement,1
+709,A,Engagement,1
+710,A,Engagement,1
+711,A,No engagement,1
+712,B,No engagement,1
+713,B,No engagement,1
+714,A,No engagement,1
+715,A,Engagement,1
+716,B,No engagement,1
+717,A,Engagement,1
+718,B,Engagement,1
+719,B,Engagement,1
+720,B,No engagement,1
+721,B,No engagement,1
+722,A,Engagement,1
+723,A,Engagement,1
+724,A,No engagement,1
+725,A,Engagement,1
+726,B,Engagement,1
+727,B,Engagement,1
+728,A,Engagement,1
+729,B,No engagement,1
+730,B,No engagement,1
+731,A,Engagement,1
+732,A,No engagement,1
+733,B,Engagement,1
+734,A,No engagement,1
+735,B,No engagement,1
+736,B,Engagement,1
+737,A,No engagement,1
+738,A,Engagement,1
+739,A,No engagement,1
+740,B,No engagement,1
+741,B,No engagement,1
+742,B,Engagement,1
+743,B,No engagement,1
+744,A,Engagement,1
+745,B,No engagement,1
+746,A,Engagement,1
+747,B,Engagement,1
+748,A,Engagement,1
+749,B,No engagement,1
+750,A,No engagement,1
+751,B,Engagement,1
+752,B,Engagement,1
+753,B,No engagement,1
+754,A,No engagement,1
+755,B,No engagement,1
+756,B,No engagement,1
+757,A,No engagement,1
+758,B,No engagement,1
+759,A,Engagement,1
+760,A,Engagement,1
+761,B,Engagement,1
+762,A,No engagement,1
+763,B,No engagement,1
+764,A,Engagement,1
+765,B,No engagement,1
+766,B,Engagement,1
+767,A,No engagement,1
+768,B,Engagement,1
+769,B,No engagement,1
+770,B,Engagement,1
+771,A,No engagement,1
+772,B,No engagement,1
+773,A,No engagement,1
+774,B,No engagement,1
+775,A,Engagement,1
+776,B,Engagement,1
+777,A,No engagement,1
+778,B,Engagement,1
+779,B,No engagement,1
+780,A,Engagement,1
+781,B,Engagement,1
+782,A,No engagement,1
+783,A,Engagement,1
+784,A,Engagement,1
+785,B,No engagement,1
+786,B,No engagement,1
+787,A,Engagement,1
+788,B,No engagement,1
+789,B,Engagement,1
+790,A,Engagement,1
+791,B,Engagement,1
+792,B,Engagement,1
+793,A,Engagement,1
+794,B,No engagement,1
+795,B,Engagement,1
+796,B,Engagement,1
+797,B,Engagement,1
+798,A,No engagement,1
+799,B,No engagement,1
+800,B,No engagement,1
+801,A,Engagement,1
+802,A,Engagement,1
+803,A,No engagement,1
+804,B,No engagement,1
+805,A,Engagement,1
+806,B,No engagement,1
+807,A,Engagement,1
+808,A,No engagement,1
+809,B,No engagement,1
+810,B,Engagement,1
+811,B,Engagement,1
+812,A,Engagement,1
+813,B,Engagement,1
+814,A,No engagement,1
+815,A,Engagement,1
+816,A,Engagement,1
+817,B,No engagement,1
+818,B,No engagement,1
+819,A,No engagement,1
+820,A,No engagement,1
+821,A,Engagement,1
+822,A,No engagement,1
+823,A,No engagement,1
+824,A,Engagement,1
+825,B,Engagement,1
+826,B,Engagement,1
+827,A,Engagement,1
+828,B,Engagement,1
+829,A,Engagement,1
+830,B,No engagement,1
+831,A,Engagement,1
+832,A,Engagement,1
+833,A,Engagement,1
+834,B,No engagement,1
+835,A,Engagement,1
+836,A,Engagement,1
+837,B,No engagement,1
+838,B,No engagement,1
+839,A,No engagement,1
+840,B,No engagement,1
+841,A,No engagement,1
+842,B,Engagement,1
+843,B,No engagement,1
+844,B,No engagement,1
+845,A,Engagement,1
+846,A,No engagement,1
+847,B,Engagement,1
+848,A,Engagement,1
+849,B,Engagement,1
+850,B,Engagement,1
+851,A,Engagement,1
+852,B,No engagement,1
+853,B,Engagement,1
+854,A,Engagement,1
+855,A,No engagement,1
+856,B,No engagement,1
+857,A,No engagement,1
+858,A,Engagement,1
+859,A,No engagement,1
+860,B,Engagement,1
+861,A,Engagement,1
+862,A,No engagement,1
+863,A,Engagement,1
+864,B,No engagement,1
+865,B,Engagement,1
+866,B,No engagement,1
+867,A,Engagement,1
+868,B,Engagement,1
+869,A,Engagement,1
+870,B,No engagement,1
+871,B,No engagement,1
+872,A,Engagement,1
+873,B,Engagement,1
+874,B,Engagement,1
+875,B,No engagement,1
+876,B,Engagement,1
+877,A,No engagement,1
+878,A,No engagement,1
+879,A,No engagement,1
+880,A,Engagement,1
+881,B,Engagement,1
+882,B,Engagement,1
+883,B,No engagement,1
+884,B,No engagement,1
+885,B,No engagement,1
+886,B,Engagement,1
+887,B,No engagement,1
+888,A,Engagement,1
+889,A,No engagement,1
+890,A,Engagement,1
+891,B,No engagement,1
+892,A,No engagement,1
+893,B,Engagement,1
+894,A,Engagement,1
+895,B,No engagement,1
+896,B,Engagement,1
+897,B,Engagement,1
+898,A,Engagement,1
+899,B,No engagement,1
+900,B,No engagement,1
+901,A,Engagement,1
+902,B,No engagement,1
+903,A,Engagement,1
+904,A,Engagement,1
+905,A,No engagement,1
+906,A,Engagement,1
+907,A,Engagement,1
+908,A,Engagement,1
+909,B,No engagement,1
+910,B,No engagement,1
+911,A,No engagement,1
+912,B,Engagement,1
+913,A,Engagement,1
+914,B,No engagement,1
+915,B,No engagement,1
+916,A,Engagement,1
+917,A,Engagement,1
+918,B,Engagement,1
+919,A,Engagement,1
+920,A,No engagement,1
+921,B,No engagement,1
+922,B,Engagement,1
+923,A,Engagement,1
+924,A,Engagement,1
+925,A,Engagement,1
+926,A,Engagement,1
+927,B,Engagement,1
+928,A,Engagement,1
+929,A,Engagement,1
+930,B,Engagement,1
+931,B,Engagement,1
+932,A,No engagement,1
+933,B,Engagement,1
+934,A,Engagement,1
+935,A,No engagement,1
+936,B,Engagement,1
+937,B,Engagement,1
+938,B,No engagement,1
+939,A,No engagement,1
+940,B,No engagement,1
+941,B,Engagement,1
+942,B,No engagement,1
+943,A,Engagement,1
+944,A,No engagement,1
+945,A,Engagement,1
+946,B,Engagement,1
+947,A,No engagement,1
+948,B,No engagement,1
+949,A,Engagement,1
+950,B,Engagement,1
+951,A,Engagement,1
+952,A,Engagement,1
+953,A,No engagement,1
+954,A,No engagement,1
+955,A,Engagement,1
+956,A,No engagement,1
+957,A,Engagement,1
+958,A,Engagement,1
+959,B,No engagement,1
+960,A,No engagement,1
+961,A,No engagement,1
+962,A,Engagement,1
+963,B,Engagement,1
+964,A,No engagement,1
+965,A,Engagement,1
+966,A,Engagement,1
+967,A,Engagement,1
+968,A,Engagement,1
+969,B,Engagement,1
+970,A,Engagement,1
+971,B,No engagement,1
+972,A,Engagement,1
+973,B,No engagement,1
+974,B,No engagement,1
+975,A,No engagement,1
+976,A,Engagement,1
+977,A,Engagement,1
+978,B,No engagement,1
+979,A,Engagement,1
+980,A,Engagement,1
+981,A,Engagement,1
+982,A,Engagement,1
+983,B,Engagement,1
+984,B,Engagement,1
+985,A,Engagement,1
+986,A,Engagement,1
+987,A,No engagement,1
+988,B,No engagement,1
+989,A,No engagement,1
+990,A,No engagement,1
+991,B,No engagement,1
+992,A,No engagement,1
+993,B,No engagement,1
+994,A,Engagement,1
+995,A,No engagement,1
+996,B,Engagement,1
+997,A,No engagement,1
+998,A,No engagement,1
+999,B,No engagement,1
+1000,B,No engagement,1
+1001,A,Engagement,1
+1002,B,Engagement,1
+1003,B,No engagement,1
+1004,B,No engagement,1
+1005,B,No engagement,1
+1006,A,Engagement,1
+1007,B,No engagement,1
+1008,A,Engagement,1
+1009,A,Engagement,1
+1010,A,No engagement,1
+1011,B,Engagement,1
+1012,B,Engagement,1
+1013,B,Engagement,1
+1014,A,Engagement,1
+1015,A,Engagement,1
+1016,B,No engagement,1
+1017,B,No engagement,1
+1018,A,No engagement,1
+1019,B,No engagement,1
+1020,A,No engagement,1
+1021,A,No engagement,1
+1022,B,No engagement,1
+1023,B,No engagement,1
+1024,A,No engagement,1
+1025,B,No engagement,1
+1026,A,Engagement,1
+1027,B,No engagement,1
+1028,A,No engagement,1
+1029,A,Engagement,1
+1030,B,Engagement,1
+1031,B,No engagement,1
+1032,A,No engagement,1
+1033,A,No engagement,1
+1034,A,Engagement,1
+1035,B,No engagement,1
+1036,B,Engagement,1
+1037,A,Engagement,1
+1038,A,Engagement,1
+1039,B,Engagement,1
+1040,B,No engagement,1
+1041,B,No engagement,1
+1042,A,No engagement,1
+1043,A,Engagement,1
+1044,B,Engagement,1
+1045,A,Engagement,1
+1046,A,Engagement,1
+1047,A,Engagement,1
+1048,B,Engagement,1
+1049,A,Engagement,1
+1050,A,Engagement,1
+1051,B,No engagement,1
+1052,B,No engagement,1
+1053,B,No engagement,1
+1054,A,Engagement,1
+1055,B,Engagement,1
+1056,A,No engagement,1
+1057,A,Engagement,1
+1058,A,Engagement,1
+1059,B,No engagement,1
+1060,B,No engagement,1
+1061,B,No engagement,1
+1062,B,No engagement,1
+1063,A,Engagement,1
+1064,B,Engagement,1
+1065,A,No engagement,1
+1066,A,No engagement,1
+1067,B,No engagement,1
+1068,B,Engagement,1
+1069,B,Engagement,1
+1070,A,Engagement,1
+1071,B,Engagement,1
+1072,B,No engagement,1
+1073,A,Engagement,1
+1074,A,Engagement,1
+1075,A,No engagement,1
+1076,A,Engagement,1
+1077,B,No engagement,1
+1078,B,No engagement,1
+1079,A,Engagement,1
+1080,A,Engagement,1
+1081,B,Engagement,1
+1082,B,No engagement,1
+1083,B,No engagement,1
+1084,B,Engagement,1
+1085,A,No engagement,1
+1086,A,No engagement,1
+1087,B,No engagement,1
+1088,A,Engagement,1
+1089,A,Engagement,1
+1090,B,No engagement,1
+1091,A,No engagement,1
+1092,A,Engagement,1
+1093,B,Engagement,1
+1094,B,Engagement,1
+1095,B,Engagement,1
+1096,A,Engagement,1
+1097,A,Engagement,1
+1098,A,No engagement,1
+1099,A,No engagement,1
+1100,B,No engagement,1
+1101,A,No engagement,1
+1102,A,No engagement,1
+1103,B,Engagement,1
+1104,B,No engagement,1
+1105,B,No engagement,1
+1106,A,Engagement,1
+1107,B,Engagement,1
+1108,A,Engagement,1
+1109,B,No engagement,1
+1110,A,Engagement,1
+1111,B,No engagement,1
+1112,B,No engagement,1
+1113,A,Engagement,1
+1114,B,Engagement,1
+1115,B,No engagement,1
+1116,B,No engagement,1
+1117,A,No engagement,1
+1118,B,No engagement,1
+1119,B,No engagement,1
+1120,A,Engagement,1
+1121,A,No engagement,1
+1122,B,Engagement,1
+1123,B,No engagement,1
+1124,B,No engagement,1
+1125,B,No engagement,1
+1126,B,Engagement,1
+1127,B,Engagement,1
+1128,A,No engagement,1
+1129,B,Engagement,1
+1130,B,No engagement,1
+1131,B,Engagement,1
+1132,B,Engagement,1
+1133,B,Engagement,1
+1134,B,Engagement,1
+1135,A,Engagement,1
+1136,B,Engagement,1
+1137,A,Engagement,1
+1138,B,Engagement,1
+1139,B,No engagement,1
+1140,B,No engagement,1
+1141,B,Engagement,1
+1142,B,No engagement,1
+1143,A,Engagement,1
+1144,A,Engagement,1
+1145,B,Engagement,1
+1146,A,No engagement,1
+1147,B,Engagement,1
+1148,A,No engagement,1
+1149,A,Engagement,1
+1150,B,No engagement,1
+1151,A,Engagement,1
+1152,B,Engagement,1
+1153,A,No engagement,1
+1154,A,Engagement,1
+1155,B,No engagement,1
+1156,B,Engagement,1
+1157,A,Engagement,1
+1158,A,Engagement,1
+1159,B,Engagement,1
+1160,A,Engagement,1
+1161,A,No engagement,1
+1162,A,Engagement,1
+1163,A,Engagement,1
+1164,B,Engagement,1
+1165,B,No engagement,1
+1166,B,No engagement,1
+1167,B,No engagement,1
+1168,B,No engagement,1
+1169,B,No engagement,1
+1170,B,No engagement,1
+1171,B,No engagement,1
+1172,B,Engagement,1
+1173,B,No engagement,1
+1174,A,Engagement,1
+1175,B,Engagement,1
+1176,A,No engagement,1
+1177,B,No engagement,1
+1178,B,Engagement,1
+1179,A,Engagement,1
+1180,B,No engagement,1
+1181,B,Engagement,1
+1182,B,No engagement,1
+1183,A,No engagement,1
+1184,A,Engagement,1
+1185,A,Engagement,1
+1186,B,No engagement,1
+1187,A,No engagement,1
+1188,A,Engagement,1
+1189,A,Engagement,1
+1190,B,No engagement,1
+1191,A,Engagement,1
+1192,B,Engagement,1
+1193,A,Engagement,1
+1194,B,No engagement,1
+1195,B,Engagement,1
+1196,A,Engagement,1
+1197,B,Engagement,1
+1198,B,No engagement,1
+1199,A,No engagement,1
+1200,A,Engagement,1
+1201,A,Engagement,1
+1202,A,No engagement,1
+1203,A,Engagement,1
+1204,B,Engagement,1
+1205,B,No engagement,1
+1206,A,No engagement,1
+1207,A,No engagement,1
+1208,A,Engagement,1
+1209,B,No engagement,1
+1210,A,No engagement,1
+1211,A,Engagement,1
+1212,A,No engagement,1
+1213,A,Engagement,1
+1214,A,Engagement,1
+1215,B,Engagement,1
+1216,A,Engagement,1
+1217,A,No engagement,1
+1218,B,Engagement,1
+1219,B,Engagement,1
+1220,B,Engagement,1
+1221,A,Engagement,1
+1222,B,No engagement,1
+1223,A,Engagement,1
+1224,A,Engagement,1
+1225,A,Engagement,1
+1226,A,Engagement,1
+1227,A,Engagement,1
+1228,A,No engagement,1
+1229,A,Engagement,1
+1230,A,Engagement,1
+1231,A,Engagement,1
+1232,A,Engagement,1
+1233,A,No engagement,1
+1234,A,Engagement,1
+1235,A,No engagement,1
+1236,B,Engagement,1
+1237,B,No engagement,1
+1238,B,No engagement,1
+1239,B,Engagement,1
+1240,A,No engagement,1
+1241,A,Engagement,1
+1242,B,No engagement,1
+1243,A,No engagement,1
+1244,B,No engagement,1
+1245,A,Engagement,1
+1246,A,Engagement,1
+1247,B,No engagement,1
+1248,A,Engagement,1
+1249,A,No engagement,1
+1250,B,No engagement,1
+1251,B,No engagement,1
+1252,A,No engagement,1
+1253,B,Engagement,1
+1254,A,Engagement,1
+1255,B,No engagement,1
+1256,A,Engagement,1
+1257,B,No engagement,1
+1258,B,Engagement,1
+1259,A,Engagement,1
+1260,A,No engagement,1
+1261,A,No engagement,1
+1262,A,Engagement,1
+1263,B,Engagement,1
+1264,B,Engagement,1
+1265,B,No engagement,1
+1266,A,Engagement,1
+1267,B,No engagement,1
+1268,B,No engagement,1
+1269,A,Engagement,1
+1270,B,No engagement,1
+1271,B,Engagement,1
+1272,A,No engagement,1
+1273,B,No engagement,1
+1274,B,Engagement,1
+1275,A,Engagement,1
+1276,A,Engagement,1
+1277,A,Engagement,1
+1278,B,Engagement,1
+1279,B,Engagement,1
+1280,B,Engagement,1
+1281,A,Engagement,1
+1282,A,Engagement,1
+1283,A,No engagement,1
+1284,B,Engagement,1
+1285,B,No engagement,1
+1286,B,No engagement,1
+1287,A,No engagement,1
+1288,B,No engagement,1
+1289,A,No engagement,1
+1290,B,Engagement,1
+1291,A,Engagement,1
+1292,A,Engagement,1
+1293,A,Engagement,1
+1294,A,No engagement,1
+1295,A,Engagement,1
+1296,B,No engagement,1
+1297,B,No engagement,1
+1298,A,Engagement,1
+1299,B,No engagement,1
+1300,B,Engagement,1
+1301,B,No engagement,1
+1302,B,Engagement,1
+1303,A,Engagement,1
+1304,A,Engagement,1
+1305,B,No engagement,1
+1306,B,No engagement,1
+1307,B,Engagement,1
+1308,A,No engagement,1
+1309,B,Engagement,1
+1310,B,Engagement,1
+1311,B,No engagement,1
+1312,A,Engagement,1
+1313,B,No engagement,1
+1314,A,No engagement,1
+1315,B,Engagement,1
+1316,A,Engagement,1
+1317,B,Engagement,1
+1318,B,Engagement,1
+1319,B,Engagement,1
+1320,B,Engagement,1
+1321,B,No engagement,1
+1322,A,Engagement,1
+1323,A,Engagement,1
+1324,A,Engagement,1
+1325,A,Engagement,1
+1326,B,No engagement,1
+1327,A,Engagement,1
+1328,B,No engagement,1
+1329,A,Engagement,1
+1330,B,No engagement,1
+1331,A,No engagement,1
+1332,B,No engagement,1
+1333,B,No engagement,1
+1334,A,Engagement,1
+1335,A,No engagement,1
+1336,B,Engagement,1
+1337,B,No engagement,1
+1338,A,Engagement,1
+1339,B,No engagement,1
+1340,A,Engagement,1
+1341,B,No engagement,1
+1342,A,No engagement,1
+1343,A,Engagement,1
+1344,A,No engagement,1
+1345,A,Engagement,1
+1346,A,Engagement,1
+1347,B,No engagement,1
+1348,B,No engagement,1
+1349,B,Engagement,1
+1350,A,No engagement,1
+1351,A,Engagement,1
+1352,A,No engagement,1
+1353,B,Engagement,1
+1354,B,No engagement,1
+1355,A,No engagement,1
+1356,B,Engagement,1
+1357,B,Engagement,1
+1358,B,No engagement,1
+1359,A,No engagement,1
+1360,B,No engagement,1
+1361,B,Engagement,1
+1362,A,Engagement,1
+1363,A,No engagement,1
+1364,A,Engagement,1
+1365,B,No engagement,1
+1366,A,Engagement,1
+1367,A,Engagement,1
+1368,A,Engagement,1
+1369,B,No engagement,1
+1370,B,Engagement,1
+1371,B,Engagement,1
+1372,A,No engagement,1
+1373,B,Engagement,1
+1374,B,No engagement,1
+1375,B,Engagement,1
+1376,A,Engagement,1
+1377,A,No engagement,1
+1378,A,No engagement,1
+1379,B,No engagement,1
+1380,A,No engagement,1
+1381,A,Engagement,1
+1382,A,No engagement,1
+1383,A,Engagement,1
+1384,B,No engagement,1
+1385,B,Engagement,1
+1386,A,No engagement,1
+1387,A,Engagement,1
+1388,B,Engagement,1
+1389,B,Engagement,1
+1390,B,Engagement,1
+1391,B,Engagement,1
+1392,A,Engagement,1
+1393,A,Engagement,1
+1394,B,No engagement,1
+1395,B,No engagement,1
+1396,B,Engagement,1
+1397,A,Engagement,1
+1398,A,Engagement,1
+1399,B,No engagement,1
+1400,A,Engagement,1
+1401,A,No engagement,1
+1402,A,Engagement,1
+1403,A,Engagement,1
+1404,A,Engagement,1
+1405,A,No engagement,1
+1406,B,No engagement,1
+1407,A,Engagement,1
+1408,B,No engagement,1
+1409,A,Engagement,1
+1410,B,No engagement,1
+1411,A,Engagement,1
+1412,B,No engagement,1
+1413,A,No engagement,1
+1414,A,Engagement,1
+1415,A,No engagement,1
+1416,B,Engagement,1
+1417,B,No engagement,1
+1418,B,No engagement,1
+1419,B,No engagement,1
+1420,A,No engagement,1
+1421,B,No engagement,1
+1422,A,No engagement,1
+1423,A,Engagement,1
+1424,A,Engagement,1
+1425,A,No engagement,1
+1426,A,Engagement,1
+1427,B,Engagement,1
+1428,B,No engagement,1
+1429,B,Engagement,1
+1430,B,Engagement,1
+1431,A,Engagement,1
+1432,B,Engagement,1
+1433,A,Engagement,1
+1434,B,No engagement,1
+1435,B,Engagement,1
+1436,B,No engagement,1
+1437,B,No engagement,1
+1438,A,Engagement,1
+1439,A,Engagement,1
+1440,A,Engagement,1
+1441,A,No engagement,1
+1442,B,Engagement,1
+1443,B,Engagement,1
+1444,B,Engagement,1
+1445,A,Engagement,1
+1446,A,No engagement,1
+1447,B,No engagement,1
+1448,A,Engagement,1
+1449,A,No engagement,1
+1450,B,No engagement,1
+1451,B,No engagement,1
+1452,B,No engagement,1
+1453,B,No engagement,1
+1454,B,No engagement,1
+1455,B,No engagement,1
+1456,B,No engagement,1
+1457,B,Engagement,1
+1458,A,No engagement,1
+1459,B,No engagement,1
+1460,B,No engagement,1
+1461,B,No engagement,1
+1462,A,Engagement,1
+1463,A,Engagement,1
+1464,A,Engagement,1
+1465,A,No engagement,1
+1466,A,Engagement,1
+1467,A,Engagement,1
+1468,A,Engagement,1
+1469,A,No engagement,1
+1470,B,No engagement,1
+1471,A,No engagement,1
+1472,B,No engagement,1
+1473,A,No engagement,1
+1474,B,No engagement,1
+1475,B,No engagement,1
+1476,A,Engagement,1
+1477,A,Engagement,1
+1478,B,Engagement,1
+1479,A,No engagement,1
+1480,B,Engagement,1
+1481,A,No engagement,1
+1482,A,Engagement,1
+1483,A,Engagement,1
+1484,B,Engagement,1
+1485,A,No engagement,1
+1486,B,Engagement,1
+1487,A,No engagement,1
+1488,A,Engagement,1
+1489,A,No engagement,1
+1490,B,No engagement,1
+1491,A,Engagement,1
+1492,A,Engagement,1
+1493,B,No engagement,1
+1494,B,No engagement,1
+1495,B,Engagement,1
+1496,A,Engagement,1
+1497,A,Engagement,1
+1498,A,No engagement,1
+1499,A,Engagement,1
+1500,B,No engagement,1
+1501,A,No engagement,1
+1502,A,No engagement,1
+1503,A,No engagement,1
+1504,B,No engagement,1
+1505,A,Engagement,1
+1506,A,Engagement,1
+1507,B,Engagement,1
+1508,B,No engagement,1
+1509,B,No engagement,1
+1510,B,Engagement,1
+1511,B,No engagement,1
+1512,B,Engagement,1
+1513,A,No engagement,1
+1514,A,Engagement,1
+1515,B,Engagement,1
+1516,B,No engagement,1
+1517,B,No engagement,1
+1518,A,No engagement,1
+1519,A,Engagement,1
+1520,A,Engagement,1
+1521,B,Engagement,1
+1522,A,Engagement,1
+1523,B,No engagement,1
+1524,A,Engagement,1
+1525,A,Engagement,1
+1526,A,Engagement,1
+1527,B,Engagement,1
+1528,B,Engagement,1
+1529,A,No engagement,1
+1530,B,No engagement,1
+1531,B,No engagement,1
+1532,B,Engagement,1
+1533,A,Engagement,1
+1534,A,Engagement,1
+1535,B,No engagement,1
+1536,B,No engagement,1
+1537,A,Engagement,1
+1538,B,No engagement,1
+1539,B,No engagement,1
+1540,A,No engagement,1
+1541,A,Engagement,1
+1542,B,Engagement,1
+1543,A,No engagement,1
+1544,B,Engagement,1
+1545,B,No engagement,1
+1546,A,No engagement,1
+1547,B,No engagement,1
+1548,A,No engagement,1
+1549,A,No engagement,1
+1550,B,Engagement,1
+1551,B,Engagement,1
+1552,A,Engagement,1
+1553,A,No engagement,1
+1554,A,No engagement,1
+1555,A,Engagement,1
+1556,A,Engagement,1
+1557,B,Engagement,1
+1558,A,Engagement,1
+1559,B,Engagement,1
+1560,A,Engagement,1
+1561,A,No engagement,1
+1562,A,Engagement,1
+1563,A,Engagement,1
+1564,B,Engagement,1
+1565,B,No engagement,1
+1566,B,No engagement,1
+1567,A,Engagement,1
+1568,B,Engagement,1
+1569,A,Engagement,1
+1570,A,Engagement,1
+1571,B,Engagement,1
+1572,A,Engagement,1
+1573,A,Engagement,1
+1574,B,No engagement,1
+1575,A,Engagement,1
+1576,B,No engagement,1
+1577,B,No engagement,1
+1578,A,Engagement,1
+1579,B,Engagement,1
+1580,A,No engagement,1
+1581,B,No engagement,1
+1582,B,No engagement,1
+1583,A,No engagement,1
+1584,B,No engagement,1
+1585,A,No engagement,1
+1586,A,No engagement,1
+1587,A,Engagement,1
+1588,A,Engagement,1
+1589,A,Engagement,1
+1590,A,Engagement,1
+1591,B,Engagement,1
+1592,B,No engagement,1
+1593,A,Engagement,1
+1594,B,Engagement,1
+1595,B,Engagement,1
+1596,B,No engagement,1
+1597,A,Engagement,1
+1598,B,Engagement,1
+1599,B,Engagement,1
+1600,B,Engagement,1
+1601,A,No engagement,1
+1602,B,No engagement,1
+1603,B,No engagement,1
+1604,A,Engagement,1
+1605,B,No engagement,1
+1606,B,Engagement,1
+1607,B,No engagement,1
+1608,B,Engagement,1
+1609,A,Engagement,1
+1610,B,Engagement,1
+1611,B,No engagement,1
+1612,B,Engagement,1
+1613,A,Engagement,1
+1614,B,No engagement,1
+1615,B,No engagement,1
+1616,B,Engagement,1
+1617,A,No engagement,1
+1618,A,No engagement,1
+1619,B,No engagement,1
+1620,B,No engagement,1
+1621,B,No engagement,1
+1622,A,No engagement,1
+1623,A,Engagement,1
+1624,B,No engagement,1
+1625,B,No engagement,1
+1626,B,No engagement,1
+1627,B,Engagement,1
+1628,A,No engagement,1
+1629,B,Engagement,1
+1630,A,Engagement,1
+1631,A,Engagement,1
+1632,A,Engagement,1
+1633,B,No engagement,1
+1634,A,Engagement,1
+1635,B,No engagement,1
+1636,B,No engagement,1
+1637,B,No engagement,1
+1638,A,Engagement,1
+1639,B,Engagement,1
+1640,A,Engagement,1
+1641,A,Engagement,1
+1642,B,No engagement,1
+1643,A,No engagement,1
+1644,B,Engagement,1
+1645,B,Engagement,1
+1646,B,No engagement,1
+1647,A,No engagement,1
+1648,A,Engagement,1
+1649,A,No engagement,1
+1650,B,No engagement,1
+1651,B,No engagement,1
+1652,B,No engagement,1
+1653,A,Engagement,1
+1654,B,Engagement,1
+1655,B,No engagement,1
+1656,B,No engagement,1
+1657,B,Engagement,1
+1658,A,Engagement,1
+1659,B,No engagement,1
+1660,A,No engagement,1
+1661,B,No engagement,1
+1662,B,No engagement,1
+1663,B,No engagement,1
+1664,B,Engagement,1
+1665,A,No engagement,1
+1666,B,Engagement,1
+1667,B,Engagement,1
+1668,B,Engagement,1
+1669,B,No engagement,1
+1670,B,No engagement,1
+1671,B,Engagement,1
+1672,B,Engagement,1
+1673,B,No engagement,1
+1674,A,No engagement,1
+1675,A,Engagement,1
+1676,B,No engagement,1
+1677,A,Engagement,1
+1678,B,Engagement,1
+1679,B,No engagement,1
+1680,A,Engagement,1
+1681,A,Engagement,1
+1682,A,Engagement,1
+1683,B,Engagement,1
+1684,A,Engagement,1
+1685,A,Engagement,1
+1686,A,No engagement,1
+1687,B,No engagement,1
+1688,A,Engagement,1
+1689,B,No engagement,1
+1690,B,Engagement,1
+1691,B,No engagement,1
+1692,B,Engagement,1
+1693,A,Engagement,1
+1694,A,Engagement,1
+1695,A,Engagement,1
+1696,A,Engagement,1
+1697,A,Engagement,1
+1698,A,Engagement,1
+1699,B,No engagement,1
+1700,B,No engagement,1
+1701,B,No engagement,1
+1702,B,No engagement,1
+1703,A,No engagement,1
+1704,B,No engagement,1
+1705,B,No engagement,1
+1706,A,No engagement,1
+1707,B,Engagement,1
+1708,A,Engagement,1
+1709,B,Engagement,1
+1710,B,No engagement,1
+1711,B,No engagement,1
+1712,A,No engagement,1
+1713,B,Engagement,1
+1714,B,No engagement,1
+1715,B,Engagement,1
+1716,B,No engagement,1
+1717,A,Engagement,1
+1718,A,Engagement,1
+1719,B,Engagement,1
+1720,A,Engagement,1
+1721,A,Engagement,1
+1722,A,Engagement,1
+1723,A,Engagement,1
+1724,B,No engagement,1
+1725,A,No engagement,1
+1726,A,Engagement,1
+1727,A,No engagement,1
+1728,B,Engagement,1
+1729,B,No engagement,1
+1730,A,No engagement,1
+1731,A,Engagement,1
+1732,A,Engagement,1
+1733,A,Engagement,1
+1734,B,No engagement,1
+1735,B,No engagement,1
+1736,B,No engagement,1
+1737,A,Engagement,1
+1738,B,Engagement,1
+1739,A,No engagement,1
+1740,B,Engagement,1
+1741,A,Engagement,1
+1742,B,No engagement,1
+1743,B,Engagement,1
+1744,B,No engagement,1
+1745,B,Engagement,1
+1746,A,Engagement,1
+1747,A,No engagement,1
+1748,A,Engagement,1
+1749,B,No engagement,1
+1750,A,No engagement,1
+1751,A,No engagement,1
+1752,B,Engagement,1
+1753,A,Engagement,1
+1754,B,Engagement,1
+1755,B,No engagement,1
+1756,B,No engagement,1
+1757,B,No engagement,1
+1758,A,Engagement,1
+1759,A,No engagement,1
+1760,B,No engagement,1
+1761,A,No engagement,1
+1762,A,No engagement,1
+1763,B,No engagement,1
+1764,B,No engagement,1
+1765,B,No engagement,1
+1766,A,No engagement,1
+1767,B,Engagement,1
+1768,A,Engagement,1
+1769,B,No engagement,1
+1770,A,Engagement,1
+1771,B,Engagement,1
+1772,A,Engagement,1
+1773,B,Engagement,1
+1774,B,No engagement,1
+1775,A,Engagement,1
+1776,A,Engagement,1
+1777,B,No engagement,1
+1778,A,Engagement,1
+1779,A,Engagement,1
+1780,A,Engagement,1
+1781,A,Engagement,1
+1782,A,No engagement,1
+1783,A,No engagement,1
+1784,A,Engagement,1
+1785,A,Engagement,1
+1786,A,Engagement,1
+1787,A,Engagement,1
+1788,A,Engagement,1
+1789,B,No engagement,1
+1790,B,Engagement,1
+1791,B,Engagement,1
+1792,A,Engagement,1
+1793,B,No engagement,1
+1794,B,No engagement,1
+1795,B,No engagement,1
+1796,B,Engagement,1
+1797,A,Engagement,1
+1798,B,No engagement,1
+1799,A,Engagement,1
+1800,A,Engagement,1
+1801,B,No engagement,1
+1802,A,Engagement,1
+1803,B,No engagement,1
+1804,B,Engagement,1
+1805,B,Engagement,1
+1806,B,No engagement,1
+1807,A,Engagement,1
+1808,B,No engagement,1
+1809,B,Engagement,1
+1810,B,Engagement,1
+1811,B,No engagement,1
+1812,B,Engagement,1
+1813,B,Engagement,1
+1814,A,Engagement,1
+1815,B,Engagement,1
+1816,B,Engagement,1
+1817,A,Engagement,1
+1818,A,No engagement,1
+1819,A,Engagement,1
+1820,B,Engagement,1
+1821,B,No engagement,1
+1822,B,No engagement,1
+1823,B,Engagement,1
+1824,B,Engagement,1
+1825,A,Engagement,1
+1826,A,No engagement,1
+1827,A,No engagement,1
+1828,A,Engagement,1
+1829,A,Engagement,1
+1830,B,Engagement,1
+1831,A,No engagement,1
+1832,A,Engagement,1
+1833,A,Engagement,1
+1834,A,Engagement,1
+1835,A,Engagement,1
+1836,A,No engagement,1
+1837,B,No engagement,1
+1838,A,No engagement,1
+1839,B,No engagement,1
+1840,B,No engagement,1
+1841,A,Engagement,1
+1842,A,Engagement,1
+1843,A,Engagement,1
+1844,A,No engagement,1
+1845,A,Engagement,1
+1846,B,Engagement,1
+1847,A,No engagement,1
+1848,B,Engagement,1
+1849,B,No engagement,1
+1850,A,Engagement,1
+1851,A,Engagement,1
+1852,B,Engagement,1
+1853,A,Engagement,1
+1854,B,No engagement,1
+1855,A,No engagement,1
+1856,A,Engagement,1
+1857,A,Engagement,1
+1858,B,Engagement,1
+1859,A,No engagement,1
+1860,B,Engagement,1
+1861,B,Engagement,1
+1862,A,Engagement,1
+1863,B,No engagement,1
+1864,B,No engagement,1
+1865,A,Engagement,1
+1866,B,No engagement,1
+1867,A,No engagement,1
+1868,B,No engagement,1
+1869,A,No engagement,1
+1870,B,Engagement,1
+1871,A,No engagement,1
+1872,B,No engagement,1
+1873,A,No engagement,1
+1874,A,Engagement,1
+1875,A,No engagement,1
+1876,B,No engagement,1
+1877,A,Engagement,1
+1878,B,No engagement,1
+1879,A,Engagement,1
+1880,A,No engagement,1
+1881,B,Engagement,1
+1882,A,Engagement,1
+1883,B,No engagement,1
+1884,A,Engagement,1
+1885,A,Engagement,1
+1886,A,Engagement,1
+1887,B,Engagement,1
+1888,B,Engagement,1
+1889,B,No engagement,1
+1890,B,Engagement,1
+1891,B,No engagement,1
+1892,B,No engagement,1
+1893,A,Engagement,1
+1894,A,Engagement,1
+1895,B,Engagement,1
+1896,B,No engagement,1
+1897,A,No engagement,1
+1898,A,No engagement,1
+1899,B,No engagement,1
+1900,A,Engagement,1
+1901,A,No engagement,1
+1902,A,No engagement,1
+1903,B,No engagement,1
+1904,B,Engagement,1
+1905,A,No engagement,1
+1906,A,No engagement,1
+1907,B,No engagement,1
+1908,B,No engagement,1
+1909,B,Engagement,1
+1910,A,Engagement,1
+1911,B,Engagement,1
+1912,A,Engagement,1
+1913,B,No engagement,1
+1914,B,No engagement,1
+1915,B,Engagement,1
+1916,B,Engagement,1
+1917,B,No engagement,1
+1918,B,Engagement,1
+1919,A,No engagement,1
+1920,A,Engagement,1
+1921,A,Engagement,1
+1922,A,Engagement,1
+1923,A,No engagement,1
+1924,B,Engagement,1
+1925,B,Engagement,1
+1926,A,No engagement,1
+1927,A,Engagement,1
+1928,A,Engagement,1
+1929,A,No engagement,1
+1930,A,No engagement,1
+1931,A,Engagement,1
+1932,B,No engagement,1
+1933,A,Engagement,1
+1934,A,Engagement,1
+1935,B,Engagement,1
+1936,A,Engagement,1
+1937,A,Engagement,1
+1938,A,No engagement,1
+1939,A,No engagement,1
+1940,A,Engagement,1
+1941,B,No engagement,1
+1942,A,Engagement,1
+1943,B,Engagement,1
+1944,B,No engagement,1
+1945,A,Engagement,1
+1946,B,No engagement,1
+1947,A,Engagement,1
+1948,B,Engagement,1
+1949,A,No engagement,1
+1950,A,Engagement,1
+1951,B,No engagement,1
+1952,B,No engagement,1
+1953,A,Engagement,1
+1954,B,No engagement,1
+1955,A,No engagement,1
+1956,B,Engagement,1
+1957,B,Engagement,1
+1958,B,Engagement,1
+1959,B,Engagement,1
+1960,A,Engagement,1
+1961,B,Engagement,1
+1962,A,Engagement,1
+1963,A,No engagement,1
+1964,B,Engagement,1
+1965,B,No engagement,1
+1966,A,Engagement,1
+1967,B,No engagement,1
+1968,A,Engagement,1
+1969,B,No engagement,1
+1970,A,Engagement,1
+1971,B,Engagement,1
+1972,B,No engagement,1
+1973,A,No engagement,1
+1974,B,No engagement,1
+1975,A,Engagement,1
+1976,A,Engagement,1
+1977,A,Engagement,1
+1978,A,Engagement,1
+1979,A,Engagement,1
+1980,A,Engagement,1
+1981,B,No engagement,1
+1982,B,No engagement,1
+1983,A,No engagement,1
+1984,A,No engagement,1
+1985,A,Engagement,1
+1986,A,No engagement,1
+1987,B,Engagement,1
+1988,A,Engagement,1
+1989,A,Engagement,1
+1990,A,Engagement,1
+1991,B,Engagement,1
+1992,B,No engagement,1
+1993,B,No engagement,1
+1994,B,No engagement,1
+1995,A,No engagement,1
+1996,A,Engagement,1
+1997,A,No engagement,1
+1998,A,Engagement,1
+1999,A,Engagement,1
